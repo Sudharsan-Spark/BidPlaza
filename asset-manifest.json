@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/Sudharsan-Spark/BidPlaza.git/static/css/main.341085b5.css",
-    "main.js": "/Sudharsan-Spark/BidPlaza.git/static/js/main.2d8e2bc7.js",
-    "static/js/787.29ab0df2.chunk.js": "/Sudharsan-Spark/BidPlaza.git/static/js/787.29ab0df2.chunk.js",
-    "static/media/war_helmet.png": "/Sudharsan-Spark/BidPlaza.git/static/media/war_helmet.c2ad7dafc341f08a3594.png",
-    "static/media/axe.png": "/Sudharsan-Spark/BidPlaza.git/static/media/axe.ea3debb257de652710c8.png",
-    "static/media/Luxury knife.jpg": "/Sudharsan-Spark/BidPlaza.git/static/media/Luxury knife.f32fce35dc570f69fff7.jpg",
-    "static/media/Eagle_jug.jpg": "/Sudharsan-Spark/BidPlaza.git/static/media/Eagle_jug.8342b6f1220bb781791f.jpg",
-    "static/media/kettle gold.jpg": "/Sudharsan-Spark/BidPlaza.git/static/media/kettle gold.28048d5fc0f2f0e9fae8.jpg",
-    "static/media/ancient_mask.jpg": "/Sudharsan-Spark/BidPlaza.git/static/media/ancient_mask.ac280ad0d9cdbaac80f2.jpg",
-    "static/media/middle_age_sword.jpg": "/Sudharsan-Spark/BidPlaza.git/static/media/middle_age_sword.21b61713ea48be648c4a.jpg",
-    "static/media/BidPlaza-logos.jpeg": "/Sudharsan-Spark/BidPlaza.git/static/media/BidPlaza-logos.42f9b0416f97e18a779f.jpeg",
-    "static/media/british_swords.jpg": "/Sudharsan-Spark/BidPlaza.git/static/media/british_swords.56b4754e96397bc9bf2a.jpg",
-    "static/media/UserLogo.png": "/Sudharsan-Spark/BidPlaza.git/static/media/UserLogo.f1aaf1bcebc8d961489a.png",
-    "static/media/indian_swords.jpg": "/Sudharsan-Spark/BidPlaza.git/static/media/indian_swords.4ff6a1ceadf55f4576aa.jpg",
-    "static/media/old_hand_clock.jpg": "/Sudharsan-Spark/BidPlaza.git/static/media/old_hand_clock.7e11b73e71e958344d5e.jpg",
-    "static/media/japanese_samuari_sword.jpg": "/Sudharsan-Spark/BidPlaza.git/static/media/japanese_samuari_sword.34b11ed4ce13d471badc.jpg",
-    "static/media/arabian_knife.jpg": "/Sudharsan-Spark/BidPlaza.git/static/media/arabian_knife.bbd14614e3e06bc8cdfb.jpg",
-    "index.html": "/Sudharsan-Spark/BidPlaza.git/index.html",
-    "main.341085b5.css.map": "/Sudharsan-Spark/BidPlaza.git/static/css/main.341085b5.css.map",
-    "main.2d8e2bc7.js.map": "/Sudharsan-Spark/BidPlaza.git/static/js/main.2d8e2bc7.js.map",
-    "787.29ab0df2.chunk.js.map": "/Sudharsan-Spark/BidPlaza.git/static/js/787.29ab0df2.chunk.js.map"
+    "main.css": "/BidPlaza/static/css/main.5f0ef930.css",
+    "main.js": "/BidPlaza/static/js/main.98a0c310.js",
+    "static/js/787.29ab0df2.chunk.js": "/BidPlaza/static/js/787.29ab0df2.chunk.js",
+    "static/media/war_helmet.png": "/BidPlaza/static/media/war_helmet.c2ad7dafc341f08a3594.png",
+    "static/media/axe.png": "/BidPlaza/static/media/axe.ea3debb257de652710c8.png",
+    "static/media/Luxury knife.jpg": "/BidPlaza/static/media/Luxury knife.f32fce35dc570f69fff7.jpg",
+    "static/media/Eagle_jug.jpg": "/BidPlaza/static/media/Eagle_jug.8342b6f1220bb781791f.jpg",
+    "static/media/kettle gold.jpg": "/BidPlaza/static/media/kettle gold.28048d5fc0f2f0e9fae8.jpg",
+    "static/media/ancient_mask.jpg": "/BidPlaza/static/media/ancient_mask.ac280ad0d9cdbaac80f2.jpg",
+    "static/media/middle_age_sword.jpg": "/BidPlaza/static/media/middle_age_sword.21b61713ea48be648c4a.jpg",
+    "static/media/BidPlaza-logos.jpeg": "/BidPlaza/static/media/BidPlaza-logos.42f9b0416f97e18a779f.jpeg",
+    "static/media/british_swords.jpg": "/BidPlaza/static/media/british_swords.56b4754e96397bc9bf2a.jpg",
+    "static/media/UserLogo.png": "/BidPlaza/static/media/UserLogo.f1aaf1bcebc8d961489a.png",
+    "static/media/indian_swords.jpg": "/BidPlaza/static/media/indian_swords.4ff6a1ceadf55f4576aa.jpg",
+    "static/media/old_hand_clock.jpg": "/BidPlaza/static/media/old_hand_clock.7e11b73e71e958344d5e.jpg",
+    "static/media/japanese_samuari_sword.jpg": "/BidPlaza/static/media/japanese_samuari_sword.34b11ed4ce13d471badc.jpg",
+    "static/media/arabian_knife.jpg": "/BidPlaza/static/media/arabian_knife.bbd14614e3e06bc8cdfb.jpg",
+    "index.html": "/BidPlaza/index.html",
+    "main.5f0ef930.css.map": "/BidPlaza/static/css/main.5f0ef930.css.map",
+    "main.98a0c310.js.map": "/BidPlaza/static/js/main.98a0c310.js.map",
+    "787.29ab0df2.chunk.js.map": "/BidPlaza/static/js/787.29ab0df2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.341085b5.css",
-    "static/js/main.2d8e2bc7.js"
+    "static/css/main.5f0ef930.css",
+    "static/js/main.98a0c310.js"
   ]
 }
